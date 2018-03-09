@@ -1,6 +1,6 @@
 +++
 draft = false
-image = "img/portfolio/clerical.jpg"
+thumbnail = "img/portfolio/clerical.jpg"
 showonlyimage = false
 date = "2016-11-05T19:53:42+05:30"
 title = "How does my workplace become unionized with CUPE?"

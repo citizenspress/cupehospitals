@@ -1,7 +1,7 @@
 +++
 showonlyimage = false
 draft = false
-image = "img/header-mergers.png"
+thumbnail = "img/header-mergers.png"
 date = "2016-11-05T19:59:22+05:30"
 title = "Is there talk of a merger at your hospital?"
 description = "Testing"
