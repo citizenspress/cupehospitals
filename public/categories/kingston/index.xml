@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Kingston on CUPE Hospitals</title>
+    <link>/categories/kingston/</link>
+    <description>Recent content in Kingston on CUPE Hospitals</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 08 Nov 2017 08:59:22 +0630</lastBuildDate>
+    
+	<atom:link href="/categories/kingston/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>CUPE Eastern Ontario RPN Conference: Dec 1, 2017</title>
+      <link>/events/rpn-nov8/</link>
+      <pubDate>Wed, 08 Nov 2017 08:59:22 +0630</pubDate>
+      
+      <guid>/events/rpn-nov8/</guid>
+      <description> CUPE local 1974, representing staff at Kingston Health Sciences, is pleased to sponsor an RPN conference for eastern Ontario RPNs.
+
+Date: December 1 Time: 10 a.m.- 4 p.m. Location: City Hall, 216 Ontario Street, Kingston 
+Agenda  Violence and hospital nursing Bargaining demands for registered practical nurses in 2017 Expanded scope of practice for RPNs recently announced by the College of Nurses  </description>
+    </item>
+    
+  </channel>
+</rss>
