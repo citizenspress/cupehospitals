@@ -1,6 +1,6 @@
 +++
 draft = false
-thumbnail = "img/portfolio/group.png"
+thumbnail = "img/post/group.png"
 showonlyimage = false
 date = "2016-11-05T20:22:08+05:30"
 title = "Questions about unionization"

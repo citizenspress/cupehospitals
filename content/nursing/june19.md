@@ -1,10 +1,10 @@
 +++
-categories = ["Canadian Union of Public Employees"]
-date = "2017-05-19T16:43:23-04:00"
+categories = ["newsletter"]
+date = "2017-06-19T16:43:23-04:00"
 description = "RPN of the year | Wage demand in bargaining | Violence at work"
-# image = "img/portfolio/choose-cupe.png"
-tags = ["newsletter"]
-title = "June 19, 2017"
+# image = "img/post/choose-cupe.png"
+tags = ["RPN"]
+title = "Nursing News"
 
 +++
 

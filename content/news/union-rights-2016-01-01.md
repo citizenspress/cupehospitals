@@ -4,8 +4,8 @@ thumbnail = ""
 date = "2016-01-01T10:00:00+05:30"
 title ="Your right to join a union is protected by law in Ontario."
 description = "In Ontario the OLRA protects the rights of  workers to join a Union. Sections 70 and  72 of the OLRA prohibit employers from  interfering with an employee’s right to  join a union and ensures that employees  are free from coercion, intimidation,  threats, promises or undue influence,  including reprisals for their support and  involvement with the union. If the  employer violates those rights CUPE will  file an Unfair Labour Practice application  with the Labour Board."
-tags = ["news", "rpn", "kingstonnews"] 
-categories = ["factsheet"]
+tags = ["Your Rights"] 
+categories = ["news","factsheets"]
 
 +++
 

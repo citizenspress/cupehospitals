@@ -4,8 +4,8 @@ thumbnail = "/img/food.png"
 date = "2017-09-30T19:53:42+05:30"
 title = "Keep Hospitals Cooking"
 description = "St. Joseph’s Health Centre is in the process of making a decision about how to prepare and deliver food in its cafeteria. Rather than serve TV dinner style food from a factory operation outside of Toronto, we think the hospital should consider patient well-being and the needs of the community."
-tags = ["news", "stjoes"] 
-categories = ["mergers"]
+tags = ["food"] 
+categories = ["news"]
 
 +++
 

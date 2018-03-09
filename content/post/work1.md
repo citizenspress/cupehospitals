@@ -1,7 +1,7 @@
 +++
 showonlyimage = false
 draft = true
-image = "img/portfolio/choose-cupe.png"
+image = "img/post/choose-cupe.png"
 date = "2016-11-05T18:25:22+05:30"
 title = "Why choose CUPE?"
 weight = 7
@@ -31,7 +31,7 @@ While CUPE Locals and Provincial health care divisions bargain strong collective
 
 ## Together we are stronger.
 
-<img src="/img/portfolio/cupe-all.jpg" alt="CUPE" style="width: 100%;"/>
+<img src="/img/post/cupe-all.jpg" alt="CUPE" style="width: 100%;"/>
 
 CUPE is a great union with an excellent track record of protecting and making gains for our members.
 

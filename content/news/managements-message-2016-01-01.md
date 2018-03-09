@@ -4,8 +4,8 @@ thumbnail = ""
 date = "2016-01-01T10:00:00+05:30"
 title ="What to expect from your Employer"
 description = "A good employer will respect your right  to make an informed decision about whether joining CUPE is the right choice  for you and your colleagues. However, it's not unusual for employers  to be afraid that you will join the Union so  they resort to using union busting companies or the tactics promoted by  those companies."
-tags = ["news"] 
-categories = ["factsheet"]
+tags = ["Your Rights"]
+categories = ["news","factsheets"]
 
 +++
 

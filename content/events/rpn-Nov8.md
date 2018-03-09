@@ -3,13 +3,14 @@ draft = false
 date = "2017-11-08T08:59:22+06:30"
 title = "CUPE Eastern Ontario RPN Conference: Dec 1, 2017"
 description = "CUPE local 1974, representing staff at Kingston Health Sciences, is pleased to sponsor an RPN conference for eastern Ontario RPNs."
-categories = ["kingston"]
+categories = ["events"]
+tags = ["RPN", "Kingston"]
 thumbnail = "/img/events/rpn-conference.png"
 
 +++
 CUPE local 1974, representing staff at Kingston Health Sciences, is pleased to sponsor an RPN conference for eastern Ontario RPNs.
 
-[![](/img/events/rpn-conference.png)](/img/events/rpn-conference.pdf)
+[Download the Conference Details Here](/img/events/rpn-conference.pdf)
 
 
 ### Date: December 1

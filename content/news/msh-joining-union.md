@@ -3,8 +3,8 @@ draft = false
 date = "2017-08-29T19:59:22+05:30" 
 title = "Joining a Union" 
 description = "It is so much more than wage increases."
-tags = ["news"] 
-categories = ["mergers"]
+tags = ["Your Rights"]
+categories = ["news","mergers"]
 
 +++
 

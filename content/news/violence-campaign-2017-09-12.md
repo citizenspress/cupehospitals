@@ -4,14 +4,11 @@ thumbnail = "/img/news/violence-stats.png"
 date = "2017-10-19T09:00:00+05:30"
 title = "OCHU/CUPE launch anti-violence at work campaign: Epidemic of Violence"
 description = "A small investment in a Plexiglass barrier would have prevented a patient from stabbing a Perth/Smiths Falls hospital admitting clerk in the neck. Better alarms would have enabled nurses at Hamilton's St. Joseph's Health Centre to summon help when a patient, asked to take his medication, became violent. A nurse at a Royal Ottawa site was stabbed repeatedly by a previously violent patient and the hospital fined earlier this summer for failing to \"reassess the risk of workplace violence\" as required by the Occupational Health and Safety Act."
-tags = ["news", "stjoes", "stmikesnews", "uhnnews"] 
-categories = ["mergers"]
+categories = ["news"]
 
 +++
 
 > "Ontario hospitals don't want you to know that violence against hospital staff is real and rampant," says union taking [public awareness campaign to radio](http://www.epidemicofviolence.ca) today
-
-![Violence against health workers](/img/news/violence-stats.png)
 
 Media Release  
 October 17, 2017

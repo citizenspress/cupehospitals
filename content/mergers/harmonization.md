@@ -4,7 +4,8 @@ draft = false
 date = "2016-11-05T00:00:00+05:30"
 title = "Harmonization: What is the process?"
 description = "Harmonization is the process of taking the Collective Agreements from all the union’s involved in the merger, along with any non union working conditions, and merging them into the new ‘first’ Collective Agreement."
-tags = ["St Michaels","stjoes","providence"]
+tags = ["St Michaels","st joes","providence"]
+categories = ["factsheets"]
 
 +++
 

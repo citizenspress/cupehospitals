@@ -1,9 +1,9 @@
 +++
-categories = [""]
-date = "2017-05-19T16:43:23-04:00"
+categories = ["newsletter"]
+date = "2017-07-19T16:43:23-04:00"
 description = "Bargaining | Violence against clerical staff | Technological change"
-tags = ["clerical", "newsletter"]
-title = "Clerical News - July"
+tags = ["clerical"]
+title = "Clerical News"
 
 +++
 

@@ -43,6 +43,6 @@ As more information about the hospital merger becomes available, we will update 
 ### Additional Information
 
 - [Why choose CUPE?](/about/)
-- [CUPE's detailed guide to PSLRTA](/portfolio/work2/)
+- [CUPE's detailed guide to PSLRTA](/post/work2/)
 - [I am not in a union, what should I do?](/mergers/articles/work12/)
 - [Job Posting and Promotion for newly merged Hospitals](/mergers/articles/post-promotion/)

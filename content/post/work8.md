@@ -40,10 +40,10 @@ For one, we have a new CUPE local union to reflect the reality of a new merged h
 
 Below, you will find links to information on the merger process, how it impacts you, and why you should choose CUPE.
 
-- [Hospital merger process](/portfolio/work6/)
-- [CUPE's detailed guide to PSLRTA](/portfolio/work2/)
+- [Hospital merger process](/post/work6/)
+- [CUPE's detailed guide to PSLRTA](/post/work2/)
 - [I am not in a union, what should I do?](/mergers/articles/work12)
 - [Job Posting and Promotion Update for newly merged hospitals](/mergers/articles/post-promotion/)
-- [Why choose CUPE?](/portfolio/work1/)
+- [Why choose CUPE?](/post/work1/)
 - [About the Canadian Union of Public Employees](/about/)
 

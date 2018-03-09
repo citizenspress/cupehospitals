@@ -3,7 +3,7 @@ title = "CUPE Anti-Violence Campaign News"
 date = "2017-11-16T19:59:22+05:30"
 thumbnail = "/img/news/violence-video.png"
 categories = ["news"]
-tags = ["news"]
+tags = ["violence"]
 description = "CUPE/OCHU's anti-violence campaign received extensive media coverage. The media reported on the polling and stories of physical attacks, sexual harassment, verbal abuse, violence in Ontario hospitals. Every day, frontline caregivers are suffering serious injuries that lead to time off work and even post-traumatic stress disorder. Instead of protecting their staff, hospital managers discourage them from reporting incidents and have even fired a nurse for revealing the real epidemic of violence in healthcare."
 
 +++

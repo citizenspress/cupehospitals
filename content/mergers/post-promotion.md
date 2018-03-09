@@ -3,7 +3,7 @@ draft = false
 date = "2010-08-29T20:59:22+05:30"
 title = "Job Posting and Promotion Update for newly merged hospitals"
 description = "As you know the employer recently put out a notice letting employees know that all employees can apply for jobs at all sites within the newly merger Hospital and this has raised a number of questions by our members."
-tags = ["stjoes","providence"]
+tags = ["st joes","providence"]
 
 +++
 

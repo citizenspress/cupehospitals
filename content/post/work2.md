@@ -2,9 +2,8 @@
 date = "2016-11-05T19:41:01+05:30"
 title = "CUPE's Detailed Guide to PSLRTA"
 draft = false
-thumbnail = "img/portfolio/pslrta-title.png"
-showonlyimage = false
-weight = 10
+thumbnail = "img/post/pslrta-title.png"
+
 +++
 
 When workplaces covered by PSLRTA amalgamate, merge or restructure, the Ontario Labour Relations Board (OLRB) will, in consultation with the affected unions and employers, determine what bargaining units are appropriate in the new workplace.

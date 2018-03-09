@@ -1,6 +1,6 @@
 +++
 draft = true
-image = "img/portfolio/union.jpg"
+image = "img/post/union.jpg"
 showonlyimage = false
 date = "2016-11-05T19:50:47+05:30"
 title = "Kingston General Hospital and Hotel Dieu Hospital"
@@ -18,7 +18,7 @@ weight = 4
 
 ## Changes at KHSC and Hotel Dieu
 
-<img src="/img/portfolio/union.jpg" alt="CUPE" align="right" style="width: 50%;"/>
+<img src="/img/post/union.jpg" alt="CUPE" align="right" style="width: 50%;"/>
 
 > *CUPE’s commitment to our members, our com­munities, and high standards of services for health care recipients is unequalled. When the time comes to have a representation vote we know that CUPE is the right choice for all employees at the Kingston Health Sciences Centre.*
 

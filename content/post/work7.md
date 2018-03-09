@@ -1,5 +1,5 @@
 +++
-image = "img/portfolio/stjoe.jpg"
+image = "img/post/stjoe.jpg"
 showonlyimage = false
 date = "2016-11-05T19:57:40+05:30"
 title = "St. Joseph's Heath Centre, St. Michael's Hospital, & Providence Healthcare"
@@ -12,7 +12,7 @@ Ontario’s hospital sector is undergoing a sustained period of change. Service 
 
 <!--more-->
 
-<img src="/img/portfolio/providence.jpg" alt="CUPE" align="right" style="width: 100%;"/>
+<img src="/img/post/providence.jpg" alt="CUPE" align="right" style="width: 100%;"/>
 
 
 
@@ -24,7 +24,7 @@ When the Ontario provincial government began to downsize public services through
 
 ### What happens to your CUPE 1144 collective agreement during and after the PSLRTA process?
 
-<img src="/img/portfolio/stjoe.jpg" alt="CUPE" align="right" style="width: 35%;"/>
+<img src="/img/post/stjoe.jpg" alt="CUPE" align="right" style="width: 35%;"/>
 During the vote process, you are covered by your existing collective agreement.
 
 > ***Wages and benefits will not be reduced as a result of the representation vote. That’s the law.***

@@ -16,8 +16,8 @@ Our Local is an active local so in addition to negotiating strong collective agr
 
 - [Harmonization Process](/mergers/articles/harmonization/)
 - [Promotion & Posting](/mergers/articles/post-promotion/)
-- [CUPE's detailed guide to PSLRTA](/portfolio/work2/)
-- [I am not in a union, what should I do?](/portfolio/work12)
+- [CUPE's detailed guide to PSLRTA](/post/work2/)
+- [I am not in a union, what should I do?](/post/work5)
 - [Why choose CUPE?](/about/)
 - [Nursing News](/nursing/june19)
 - [Clerical News](/clerical/clerical-july/)

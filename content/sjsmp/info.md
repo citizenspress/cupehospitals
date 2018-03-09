@@ -1,5 +1,5 @@
 +++
-categories = ["Canadian Union of Public Employees"]
+categories = ["mergers"]
 date = "2017-05-19T16:43:23-04:00"
 description = "Information about the merger process."
 menu = ""

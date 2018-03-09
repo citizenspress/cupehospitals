@@ -1,5 +1,5 @@
 +++
-draft = false
+draft = true
 date = "2017-11-05"
 title = "Hospital Mergers Information"
 description = "Hospitals are merging across Ontario. The result are run-off votes between unions in those hospitals where members choose which union will represent them."
@@ -55,9 +55,9 @@ For one, we have a new CUPE local union to reflect the reality of a new merged h
 Below, you will find links to information on the merger process, how it impacts you, and why you should choose CUPE.
 
 - [Harmonization Process](/mergers/articles/harmonization/)
-- [CUPE's detailed guide to PSLRTA](/portfolio/work2/)
+- [CUPE's detailed guide to PSLRTA](/post/work2/)
 - [I am not in a union, what should I do?](/mergers/articles/non-union/)
 - [Job Posting and Promotion Update for newly merged hospitals](/mergers/articles/post-promotion/)
-- [Why choose CUPE?](/portfolio/work1/)
+- [Why choose CUPE?](/post/work1/)
 - [About the Canadian Union of Public Employees](/about/)
 

@@ -1,9 +1,8 @@
 +++
-categories = ["kghd"]
-date = "2017-05-19T16:43:23-05:00"
+categories = ["newsletter"]
+date = "2017-07-19T16:43:23-05:00"
 description = "Bargaining begins | Wage Harmonization | Violence at work"
-tags = ["CUPE News", "newsletter"]
-title = "Local 1974 Newsletter - July, 2017"
+title = "Local 1974 Newsletter"
 
 +++
 

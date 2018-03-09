@@ -1,9 +1,9 @@
 +++
-categories = ["psw"]
-date = "2017-05-19T16:43:23-04:00"
+categories = ["newsletter"]
+date = "2017-07-19T16:43:23-04:00"
 description = "PSW NEWS PSW of the Year | Bargaining | Violence"
-tags = ["PSW", "newsletter"]
-title = "PSW News - July, 2017"
+tags = ["PSW"]
+title = "PSW Newsletter"
 
 +++
 

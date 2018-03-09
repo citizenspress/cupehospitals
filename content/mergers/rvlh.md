@@ -40,6 +40,6 @@ If you have questions about our new merged local please contact: 905-576-8711 ex
 ### Additional Information
 
 - [Why choose CUPE?](/about/)
-- [CUPE's detailed guide to PSLRTA](/portfolio/work2/)
+- [CUPE's detailed guide to PSLRTA](/post/work2/)
 - [I am not in a union, what should I do?](/mergers/articles/work12/)
 - [Job Posting and Promotion for newly merged Hospitals](/mergers/articles/post-promotion/)

@@ -1,6 +1,6 @@
 +++
 draft = false
-thumbnail = "img/portfolio/clerical.jpg"
+thumbnail = "img/post/clerical.jpg"
 showonlyimage = false
 date = "2016-11-05T19:53:42+05:30"
 title = "How does my workplace become unionized with CUPE?"
@@ -30,12 +30,12 @@ Providence, St Joseph’s and St Michael’s merged as of August 1, 2017. The re
 ---
 
 
-### [Markham Stouffville Hospital](/msh/)
+<!-- ### [Markham Stouffville Hospital](/msh/) -->
 
-CUPE Local 3651 has represented the Full time service workers at Markham Stouffville Hospital since 1994. In 2015 we became the representative of the Part time Service workers at Markham Stouffville Hospital and negotiated their first Collective Agreement. CUPE Local 3651 now represents over 450 Full and Part time workers at Markham Stouffville Hospital.  
-[Click here to learn more.](/msh/)
+<!-- CUPE Local 3651 has represented the Full time service workers at Markham Stouffville Hospital since 1994. In 2015 we became the representative of the Part time Service workers at Markham Stouffville Hospital and negotiated their first Collective Agreement. CUPE Local 3651 now represents over 450 Full and Part time workers at Markham Stouffville Hospital.   -->
+<!-- [Click here to learn more.](/msh/) -->
 
----
+<!-- --- -->
 
 
 

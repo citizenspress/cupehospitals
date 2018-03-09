@@ -24,7 +24,7 @@ Local 3651 executives work to represent all members, attend union education cour
 
 ### Additional Information
 
-- [Hospital merger process](/portfolio/work6/)
-- [CUPE's detailed guide to PSLRTA](/portfolio/work2/)
-- [I am not in a union, what should I do?](/portfolio/work12)
+- [Hospital merger process](/post/work6/)
+- [CUPE's detailed guide to PSLRTA](/post/work2/)
+- [I am not in a union, what should I do?](/post/work12)
 - [Why choose CUPE?](/about/)

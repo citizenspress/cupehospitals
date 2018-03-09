@@ -13,7 +13,7 @@ googleAnalytics = "" # Enable Google Analytics by entering your tracking id
 
 
 [Params]
-    subtitle = "CUPE is the largest healthcare union in Canada." # Subtitle of your site
+    subtitle = "CUPE is Canada's largest healthcare union" # Subtitle of your site
     description = " The Canadian Union of Public Employees (CUPE) is the largest healthcare union in Canada." # Description of your site
     opengraph = true
     readmore = false # Show "Read more" button in list if true

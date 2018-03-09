@@ -9,7 +9,7 @@ menu = "main"
 
 #### CUPE is Canada's largest hospital union
 
-<img src="/img/portfolio/cupe-all.jpg" alt="CUPE" style="width: 100%;"/>
+<img src="/img/post/cupe-all.jpg" alt="CUPE" style="width: 100%;"/>
 
 
 

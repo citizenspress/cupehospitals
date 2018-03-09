@@ -3,7 +3,7 @@ draft = false
 date = "2016-11-05T18:25:22+05:30"
 title = "What if I am non-union?"
 description = "When hospitals merge, workers who are union members have a huge advantage over non-union workers. Union members are protected by a collective agreement that offers superior protection against layoffs. If your employer is considering a merger with other hospitals, you should seriously consider joining a union that will fight for your rights."
-tags = ["stjoes","providence"]
+tags = ["st joes","providence"]
 
 +++
 
@@ -23,7 +23,7 @@ That could mean one lab doing certain work that is now handled by multiple labs 
 ### Why is it an advantage to be in a union?
 
 There are lots of good reasons to join a union: 
-<img src="/img/portfolio/choose-cupe.png" alt="CUPE" align="right" style="width: 30%;"/>
+<img src="/img/post/choose-cupe.png" alt="CUPE" align="right" style="width: 30%;"/>
 
 
 - workplace fairness 

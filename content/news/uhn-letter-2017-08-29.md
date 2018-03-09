@@ -3,8 +3,8 @@ draft = false
 date = "2017-08-29T19:59:22+05:30"
 title = "To all non-union employees of UHN"
 description = "Recently you received a letter from UHN in response to CUPE’s organizing drive.  The letter you received contained some inaccuracies and outdated information.  In this letter, you will find updated and accurate information regarding CUPE and unions in general."
-
-tags = ["uhnnews"]
+categories = ["news"]
+tags = ["Your Rights"]
 +++
 
 Recently you received a letter from UHN in response to CUPE’s organizing drive.  The letter you received contained some inaccuracies and outdated information.  In this letter, you will find updated and accurate information regarding CUPE and unions in general. 

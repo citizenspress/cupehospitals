@@ -3,7 +3,7 @@ draft = false
 date = "2017-12-14T12:00:00+04:00"
 title = "St. Mike's Rally to Support Hospital Staff Dec 19, 2017"
 description = "Like Scrooge, St. Michael's Hospital is treating its employees badly. It's got to stop. Join us for the rally December 19 from 4-5pm at the corner of Queen and Bond."
-categories = ["stmikesevents","stmikesnews"]
+categories = ["events"]
 
 +++
 

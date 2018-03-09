@@ -1,8 +1,8 @@
 +++
-categories = ["stmikes"]
+categories = ["newsletter"]
 date = "2017-08-01T16:43:23-04:00"
 description = ""
-tags = ["posts", "newsletter"]
+tags = ["Your Rights"]
 title = "Why is it an advantage to be in a Union?"
 
 +++

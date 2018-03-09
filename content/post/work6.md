@@ -1,6 +1,6 @@
 +++
 draft = true
-image = "img/portfolio/clerical.jpg"
+image = "img/post/clerical.jpg"
 date = "2016-11-05T19:56:17+05:30"
 title = "Hospital Merger Process FAQ"
 showonlyimage = false
@@ -16,7 +16,7 @@ Ontario’s hospital sector is undergoing a sustained period of change. Service 
 
 
 
-<img src="/img/portfolio/clerical.jpg" alt="CUPE" align="right" style="width: 40%;"/>
+<img src="/img/post/clerical.jpg" alt="CUPE" align="right" style="width: 40%;"/>
 
 ### How will the mergers affect you and your CUPE collective agreement?
 
@@ -44,7 +44,7 @@ There will only be a “no union” option on the ballot if more than 40 percent
 ### How does the vote work under PSLRTA?
 
 
-<img src="/img/portfolio/poll.jpg" alt="CUPE" align="right" style="width: 20%;"/>
+<img src="/img/post/poll.jpg" alt="CUPE" align="right" style="width: 20%;"/>
 
 - There is a secret ballot vote conducted by the OLRB.
 - Neither the employer nor the union(s) may interfere in the process or attempt to threaten or intimidate voters.
