@@ -8,20 +8,18 @@ weight = 3
 +++
 
 
-[Why should I join a union?](/portfolio/work10/#why-should-i-join-a-union)  
-[What is the process of forming a union?](/portfolio/work10/#what-is-the-process-of-forming-a-union)  
-[How is my privacy protected?](/portfolio/work10/#how-is-my-privacy-protected)  
-[What is a Collective Agreement?](/portfolio/work10/#what-is-a-collective-agreement)  
-[What are union dues?](/portfolio/work10/#what-are-union-dues)  
-[What does seniority mean?](/portfolio/work10/#what-does-seniority-mean)  
-[Can the employer fire employees for supporting the union?](/portfolio/work10/#can-the-employer-fire-employees-for-supporting-the-union)  
-[What happens after we become unionized?](/portfolio/work10/#what-happens-after-we-become-unionized)  
-[Who runs the union?](/portfolio/work10/#who-runs-the-union)  
-[Will we be entitled to Pay Equity?](/portfolio/work10/#will-we-be-entitled-to-pay-equity)
+[Why should I join a union?](/post/work10/#why-should-i-join-a-union)  
+[What is the process of forming a union?](/post/work10/#what-is-the-process-of-forming-a-union)  
+[How is my privacy protected?](/post/work10/#how-is-my-privacy-protected)  
+[What is a Collective Agreement?](/post/work10/#what-is-a-collective-agreement)  
+[What are union dues?](/post/work10/#what-are-union-dues)  
+[What does seniority mean?](/post/work10/#what-does-seniority-mean)  
+[Can the employer fire employees for supporting the union?](/post/work10/#can-the-employer-fire-employees-for-supporting-the-union)  
+[What happens after we become unionized?](/post/work10/#what-happens-after-we-become-unionized)  
+[Who runs the union?](/post/work10/#who-runs-the-union)  
+[Will we be entitled to Pay Equity?](/post/work10/#will-we-be-entitled-to-pay-equity)
 
 <!--more-->
-
-![](/img/joincupe.png)
 
 
 # Why should I join a union?
@@ -89,3 +87,5 @@ When a group becomes unionized the law requires that the pay equity plan be revi
 
 
 
+
+![](/img/joincupe.png)

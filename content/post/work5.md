@@ -12,11 +12,6 @@ Choosing a union to represent you in the workplace is extremely important.  CUPE
 <!--more-->
 
 
-<img src="/img/joincupe.png" align="right" width="100%">
-
-
-[**Click here if you already want to sign CUPE card.**](/contact/)
-
 
 Click on your hospital find out more about unionization of workers in your workplace:
 
@@ -52,6 +47,12 @@ CUPE Local 3651 has represented the Full time service workers at Markham Stouffv
 
 ----
 
+<img src="/img/joincupe.png" align="right" width="100%">
+
+
+[**Click here if you already want to sign CUPE card.**](/contact/)
+
 ### What do we need to do to join CUPE?
 
 A percentage of not less than 40% of the employees must sign union membership cards, then an application for certification is submitted to the Ontario Labour Relations Board.  One week later the Ontario Labour Relations Board holds a secret ballot vote at your workplace.  In order for the union to be successful fifty percent plus one of the employees who cast a ballot must vote in favour of the union.
+

@@ -1,7 +1,7 @@
 +++
 showonlyimage = false
 draft = false
-thumbnail = "img/header-mergers.png"
+thumbnail = "img/mergers.png"
 date = "2016-11-05T19:59:22+05:30"
 title = "Is there talk of a merger at your hospital?"
 description = "Testing"
@@ -14,13 +14,6 @@ Hospitals are merging across Ontario. The result are run-off votes between union
 <!--more-->
 
 Click on your workplace to find out how the mergers will affect you.
-
-
-![](/img/mergers.png)
-
-
-
-
 
 
 ### [1. Kingston General Hospital and Hotel Dieu Hospital](/mergers/kghd/)
