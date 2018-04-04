@@ -18,6 +18,7 @@ Local 3651 executives work to represent all members, attend union education cour
 
 ### CUPE Newsletters
 
+- [CUPE Memo to MSH Clerical Staff]()
 - [Nursing News](/nursing/)
 - [Clerical News](/clerical/)
 - [PSW News](/psw/)
