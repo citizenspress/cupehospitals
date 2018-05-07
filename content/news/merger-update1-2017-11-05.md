@@ -6,7 +6,7 @@ title = "Non-union clerical are affected by the merger at St. Mike's: CUPE Podca
 description = "CUPE represents about 20,000 registered practical nurses (RPNs) in Ontario. That’s more than any other union. CUPE bargaining sets the lead for all hospital service, RPN, and clerical workers in Ontario. Comparing our collective agreements to other unions bears this out. CUPE has superior language on seniority rights, job security, layoffs and recall, and health and safety to name but a few issues. This is true at Kingston General Hospital and at hospitals across the province."
 
 categories = ["mergers","podcast","news"]
-
+tags = ["St Michaels"]
 +++
 
 _Podcast explaining the effect of the merger process at St. Mike's on non-union clerical._

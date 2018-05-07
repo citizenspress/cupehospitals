@@ -4,7 +4,7 @@ thumbnail = "/img/news/central.png"
 date = "2018-04-23T10:00:00+05:30"
 title = "We have reached a settlement in CUPE central hospital bargaining"
 description = "The Ontario Council of Hospital Unions (OCHU) is the hospital division CUPE. OCHU/CUPE bargains a provincial collective agreement with the Ontario Hospital Association and lays that pattern down across the hospital sector and for those long-term care facilities that have a relationship with a hospital. CUPE bargaining sets the lead for all hospital service, RPN, and clerical workers in Ontario. Comparing our collective agreements to other unions bears this out."
-tags = ["Funding"] 
+tags = ["Funding", "St Michaels"] 
 categories = ["news"]
 
 +++ 

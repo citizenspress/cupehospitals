@@ -2,7 +2,7 @@
 categories = ["newsletter"]
 date = "2017-08-01T16:43:23-04:00"
 description = ""
-tags = ["Your Rights"]
+tags = ["Your Rights", "St Michaels"]
 title = "Why is it an advantage to be in a Union?"
 
 +++
