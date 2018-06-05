@@ -5,7 +5,6 @@ showonlyimage = false
 date = "2016-11-05T19:53:42+05:30"
 title = "How does my workplace become unionized with CUPE?"
 weight = 1
-tags = ["twh"]
 +++
 
 Choosing a union to represent you in the workplace is extremely important.  CUPE Locals and Provincial health care divisions bargain strong collective agreements and champion provincial health care issues. CUPE is Canada’s largest health care union, lobbies on issues that impact health care workers across Canada such as the privatization of health care and increased funding.
