@@ -3,7 +3,7 @@ draft = false
 date = "2018-01-29T20:59:22+05:30"
 title = "Memo: Your Rights At Work"
 description = "These are just some examples of improvements we are confident CUPE can win for you. Without a union, each employee has to negotiate their own wages and working conditions with their employer; but by acting together, employees can have some real bargaining power. A collective agreement ensures that everyone receives equal treatment by the employer and an accountability process if the agreement is violated."
-tags = ["msh"]
+tags = ["msh","twh"]
 categories = ["factsheets","mergers"]
 
 +++

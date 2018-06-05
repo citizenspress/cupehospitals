@@ -2,8 +2,9 @@
 categories = ["newsletter"]
 date = "2017-07-19T16:43:23-04:00"
 description = "Bargaining | Violence against clerical staff | Technological change"
-tags = ["clerical"]
+tags = ["clerical","twh"]
 title = "Clerical News"
+
 
 +++
 

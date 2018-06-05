@@ -8,13 +8,13 @@ googleAnalytics = "" # Enable Google Analytics by entering your tracking id
 
 [Author]
     name = "CUPE Hospitals"
-    bio = "The Canadian Union of Public Employees (CUPE) is the largest healthcare union in Canada."
+    bio = "The Canadian Union of Public Employees (CUPE) is the largest health care union in Canada."
     avatar = "img/avatar.png"
 
 
 [Params]
-    subtitle = "CUPE is Canada's largest healthcare union" # Subtitle of your site
-    description = " The Canadian Union of Public Employees (CUPE) is the largest healthcare union in Canada." # Description of your site
+    subtitle = "CUPE is Canada's largest health care union" # Subtitle of your site
+    description = " The Canadian Union of Public Employees (CUPE) is the largest health care union in Canada." # Description of your site
     opengraph = true
     readmore = false # Show "Read more" button in list if true
     leftsidebar = false # Move sidebar to the left side if true

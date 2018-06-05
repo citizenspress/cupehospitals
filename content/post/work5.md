@@ -5,6 +5,7 @@ showonlyimage = false
 date = "2016-11-05T19:53:42+05:30"
 title = "How does my workplace become unionized with CUPE?"
 weight = 1
+tags = ["twh"]
 +++
 
 Choosing a union to represent you in the workplace is extremely important.  CUPE Locals and Provincial health care divisions bargain strong collective agreements and champion provincial health care issues. CUPE is Canada’s largest health care union, lobbies on issues that impact health care workers across Canada such as the privatization of health care and increased funding.
@@ -15,19 +16,26 @@ Choosing a union to represent you in the workplace is extremely important.  CUPE
 
 Click on your hospital find out more about unionization of workers in your workplace:
 
+
+### [Toronto Western Hospital](/tags/twh/)
+
+As a hardworking part-time clerical employee at Toronto Western Hospital, you deserve better. Joining CUPE is the answer.  
+[Read more...](/tags/twh/)
+
+
+---
+
+### [St. Michael's Hospital](/tags/stmikes/)
+
+Providence, St Joseph’s and St Michael’s merged as of August 1, 2017. The reason union-workers at St. Michael's are joinging CUPE is because now more than ever job security for non union positions will be tenuous.  
+[Read more...](/tags/stmikes)
+
+
+---
 ### [University Health Network](/uhn/)
 
 Clerical workers across locations in the University Health Network are organizing with CUPE.  
-[Read more...](/uhn)
-
----
-
-### [St. Michael's Hospital](/stmikes/)
-
-Providence, St Joseph’s and St Michael’s merged as of August 1, 2017. The reason union-workers at St. Michael's are joinging CUPE is because now more than ever job security for non union positions will be tenuous.  
-[Read more...](/stmikes)
-
----
+[Read more...](/tags/uhn)
 
 
 <!-- ### [Markham Stouffville Hospital](/msh/) -->
