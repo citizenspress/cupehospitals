@@ -7,24 +7,29 @@ title = "Toronto Western Hospital"
 
 </br>
 
-## Vote CUPE
+## CUPE Welcomes TWH Part-Time & Clerical
 </br>
+<p>Congratulations for voting to join CUPE!</p>
+</br>
+<p>An overwhelming majority of part-time and casual clerical at TWH have voted in favour of joining CUPE.</p>
+</br>
+### Next steps:
+</br>
+Over the next few weeks CUPE will be contacting you and setting-up a membership meeting to answer all your questions. 
+</br></br>
+At this meeting we will also be discussing:
+</br></br>
 
-Dear CUPE supporters,
+- 1. options of establishing your own local or joining another local in the UHN Network
+- 2. your bargaining priorities
+- 3. electing officers
+- 4. outlining the way forward to getting a collective agreement.
+
+
+</br>
+Please stay tuned to your email and [cupehospitals.ca/twh](http://cupehospitals.ca/twh) for updates. 
 </br></br>
-The Labour Board has issued the official notice of the upcoming vote for part-time and casual clerical employees at Toronto Western Hospital to join CUPE.
-</br></br>
-**Time: Thursday, June 7 1:30 p.m. to 3:00 p.m.**  
-**Location: TWH Main Pavilion - 5th floor, Room 316**
-</br></br>
-You must vote in-person at this poll during the time indicated. The Ontario Labour Relations Board does not accept proxy, distance or online voting.
-</br></br>
-The question on the ballot will be: "In your employment relations with your Employer, do you wish to be represented by the union?” In order to be successful, majority (50%+1) of voters must vote YES.
-</br></br>
-A Labour Board Officer will oversee the vote. Both CUPE and the Employer are allowed 1 scrutineer each at the poll. Your vote is confidential and the employer will never know how you vote. The secrecy of the vote is protected by law.
-</br></br>
-In the unusual circumstance that your name does not appear on the voters list, you will still be permitted to vote. The Labour Board Officer will explain to you that your vote will be double enveloped and segregated until your employment information can be verified at a later date. Your vote will still be unidentifiable and confidential.
-</br></br>
+
 
 ---
 
